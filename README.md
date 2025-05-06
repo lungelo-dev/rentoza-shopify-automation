@@ -1,0 +1,1 @@
+# rentoza-shopify-automation
